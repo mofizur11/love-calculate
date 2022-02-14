@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Love Calculate</string>
+    <string name="todo">TODO</string>
+    <string name="cal">Cal</string>
+    <string name="click_cal">Click Cal</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_crush_name">Enter crush name</string>
+</resources>
